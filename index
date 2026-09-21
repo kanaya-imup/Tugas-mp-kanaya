@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riwayat Hidup</title>
+</head>
+
+<body>
+
+    <!-- HEADER + TAGLINE -->
+    <header>
+        <h1>RIWAYAT HIDUP</h1>
+        <p>Tampang sederhana, Skill luar biasa</p>
+    </header>
+
+    <hr>
+
+    <!-- MAIN -->
+    <main>
+
+        <!-- RIWAYAT PENDIDIKAN + FOTO -->
+        <section>
+            <h2>Riwayat Pendidikan</h2>
+
+            <img src="kanaya2.jpg" alt="Fotokanaya" width="150" height="150">
+
+            <ul>
+                <li>SD : MIN 6 KOTA MEDAN</li>
+                <li>SMP : SMP NEGERI 9 MEDAN</li>
+                <li>SMK : SMKN 9 Medan</li>
+                <li>Jurusan : Rekayasa Perangkat Lunak</li>
+                <li>Kelas : XI RPL</li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <!-- PRESTASI -->
+        <section>
+            <h2>Prestasi</h2>
+
+            <table border="1" cellpadding="8">
+                <tr>
+                    <th>No</th>
+                    <th>Prestasi</th>
+                </tr>
+
+                <tr>
+                    <td>1</td>
+                    <td>Tahun 2024: Mengikuti lomba Tahfidz Nasional</td>
+                </tr>
+
+                <tr>
+                    <td>2</td>
+                  <td>Tahun 2023: Mengikuti OSIS PERIODE 2023/2024 DI SMP</td>
+                </tr>
+
+                <tr>
+                    <td>3</td>
+                  <td>Tahun 2026: Menyelesaikan Tasmi 2 Juz sekali duduk</td>
+                </tr>
+            </table>
+        </section>
+
+        <hr>
+
+        <!-- HOBI -->
+        <section>
+            <h2>Hobi dan Pelajaran yang diminati</h2>
+
+            <p>
+                Hobi saya adalah Berenang, karena semenjak saya mengalami
+              patah tulang,orang tua saya selalu membawa saya 
+              buat berenang dan sampai saat ini.
+            </p>
+
+            <p>
+                Mata pelajaran kesukaan saya adalah MM, karena dari sd saya sudah menyukai mapel ini 
+              dan saya suka menghitung.
+            </p>
+        </section>
+
+    </main>
+
+    <hr>
+
+    <!-- FOOTER + 3 MEDIA -->
+    <footer>
+        <h2>Informasi Kontak</h2>
+
+        <p>
+            <a href="https://www.instagram.com/">Instagram</a>
+        </p>
+
+        <p>
+            <a href="https://www.tiktok.com/">TikTok</a>
+        </p>
+
+        <p>
+            <a href="https://wa.me/6282165568737">WatsApp</a>
+        </p>
+
+        <p>&copy; 2026 Riwayat Hidup</p>
+    </footer>
+
+</body>
+</html>
